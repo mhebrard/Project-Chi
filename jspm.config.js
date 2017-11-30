@@ -119,6 +119,7 @@ SystemJS.config({
     "d3": "npm:d3@3.5.17",
     "d3-array": "npm:d3-array@1.0.1",
     "d3-axis": "npm:d3-axis@1.0.3",
+    "d3-collection": "npm:d3-collection@1.0.4",
     "d3-color": "npm:d3-color@1.0.3",
     "d3-dispatch": "npm:d3-dispatch@1.0.1",
     "d3-drag": "npm:d3-drag@1.0.1",
